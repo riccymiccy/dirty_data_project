@@ -54,7 +54,7 @@ Who had the highest total points across both competitions?
   summarise(total_points = sum(points)) %>% 
   arrange(desc(total_points))`
   
- ![](/highest_two_events_total.png) 
+ ![](/pictures/highest_two_events_total.png) 
   
   What was the shot-put scores for the top three competitors in each competition?
   
